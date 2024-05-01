@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/lloyd-jefferson-/",
+    "build": "vite build --base=/js_102_lloyd-jefferson-/",
     "preview": "vite preview",
     "serve": "json-server --watch reviews-db.json",
     "start": "concurrently \"npm run serve\" \"nüm run dev\""
